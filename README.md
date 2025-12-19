@@ -53,4 +53,4 @@ Data used for training the model can be found [here](https://drive.google.com/dr
 
 Data used for training the model can be found [here](https://drive.google.com/file/d/1hnaGuqGuMXaFKI5fhfy8gatzCH-6iMcJ/view?usp=sharing).
 
-![A screenshot of how the tracking looks like. The black box is not part of the piple, it is used just to highlight the overlay.](https://github.com/PranavAga/cricket-ball-detection/blob/[branch]/Screenshot.png?raw=true)
+![A screenshot of how the tracking looks like. The black box is not part of the piple, it is used just to highlight the overlay.](https://github.com/PranavAga/cricket-ball-detection/blob/main/Screenshot.png?raw=true)
